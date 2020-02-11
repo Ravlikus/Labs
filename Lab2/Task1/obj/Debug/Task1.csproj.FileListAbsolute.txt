@@ -1,0 +1,5 @@
+C:\Backup\Учеба\ПП\Lab2\Task1\bin\Debug\Task1.dll
+C:\Backup\Учеба\ПП\Lab2\Task1\bin\Debug\Task1.pdb
+C:\Backup\Учеба\ПП\Lab2\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Backup\Учеба\ПП\Lab2\Task1\obj\Debug\Task1.dll
+C:\Backup\Учеба\ПП\Lab2\Task1\obj\Debug\Task1.pdb

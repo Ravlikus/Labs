@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\Lab1\Task1\bin\Debug\Task1.dll
+C:\Users\ACER\source\repos\Lab1\Task1\bin\Debug\Task1.pdb
+C:\Users\ACER\source\repos\Lab1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Lab1\Task1\obj\Debug\Task1.dll
+C:\Users\ACER\source\repos\Lab1\Task1\obj\Debug\Task1.pdb

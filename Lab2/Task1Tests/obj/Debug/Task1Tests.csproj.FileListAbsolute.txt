@@ -1,0 +1,10 @@
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\Task1Tests.dll
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\Task1Tests.pdb
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\Task1.dll
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\Task1.pdb
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\obj\Debug\Task1Tests.csprojAssemblyReference.cache
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\obj\Debug\Task1Tests.csproj.CopyComplete
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\obj\Debug\Task1Tests.dll
+C:\Backup\Учеба\ПП\Lab2\Task1Tests\obj\Debug\Task1Tests.pdb
